@@ -1,0 +1,8 @@
+
+def main():
+    with open("input/input_.txt") as f:
+        lines = f.readlines()
+        print(lines)
+
+if __name__ == "__main__":
+    main()
